@@ -1,0 +1,6 @@
+{
+  "name": "FarmGuard AI",
+  "description": "Edge-AI Agricultural Operating System providing sovereign, zero-latency plant pathology and precision micro-irrigation at the farm gate.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
